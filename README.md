@@ -14,8 +14,8 @@ The system uses a **Retrieval-Augmented Generation (RAG)** architecture to provi
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/HealthInsight-Bot.git
-    cd HealthInsight-Bot
+    git clone https://github.com/YourUsername/HealthInsight.git
+    cd HealthInsight
     ```
 
 2.  **Create a `.env` file** and add your OpenAI API key:
