@@ -42,7 +42,7 @@ The system uses a Retrieval-Augmented Generation (RAG) architecture to provide a
 
 ## Deployment to OpenShift
 
-This project includes a multi-stage `Dockerfile` optimized for OpenShift. If you want to deploy it ever on Openshift then read the steps below to deploy it on Openshift and then use the external link provided for the container to allow public access to the application. 
+This project includes a multi-stage `Dockerfile` optimized for OpenShift. If you want to deploy it ever on Openshift then read the steps below to deploy it on Openshift and then use the external link provided for the builds to allow public access to the application. 
 If you want to deploy it on a different platform change the Dockerfile as needed before deployment.
 
 ### Handling API Keys in OpenShift
