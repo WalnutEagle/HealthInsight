@@ -1,4 +1,4 @@
-# HealthInsight Bot: RAG-Powered Medical Q&A System
+# HealthInsight: RAG-Powered Medical Q&A System
 
 The system uses a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers. This approach grounds the Large Language Model's (LLM) responses in factual data from the provided documents, significantly reducing the risk of hallucination. The application is served through a simple web interface built with Flask.
 
